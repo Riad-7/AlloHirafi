@@ -7,7 +7,8 @@ function Navbar() {
             
             <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
                 <div className="container">
-                    <NavLink className="navbar-brand text-light" to={'/'}>AlloHirafi</NavLink>
+                    <img src="../src/assets/logo.png" alt="" width={'75px'}/>
+                     
 
                     <button
                         className="navbar-toggler"
